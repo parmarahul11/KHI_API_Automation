@@ -1,4 +1,4 @@
-package putMethodCall;
+package postMethodCall;
 
 import java.io.IOException;
 import java.time.Duration;
