@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T15:14:57 IST" name="Default suite" finished-at="2023-09-06T15:15:18 IST" duration-ms="21144">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T15:14:57 IST" name="Default test" finished-at="2023-09-06T15:15:18 IST" duration-ms="21144">
+      <class name="putMethodCall.createOpportunity">
+        <test-method signature="configuratorcreateCart()[pri:0, instance:putMethodCall.createOpportunity@3238e2aa]" started-at="2023-09-06T15:14:57 IST" name="configuratorcreateCart" finished-at="2023-09-06T15:15:18 IST" duration-ms="20381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuratorcreateCart -->
+        <test-method signature="plmcreateCart()[pri:0, instance:putMethodCall.createOpportunity@3238e2aa]" started-at="2023-09-06T15:15:18 IST" name="plmcreateCart" finished-at="2023-09-06T15:15:18 IST" depends-on-methods="putMethodCall.createOpportunity.configuratorcreateCart" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plmcreateCart -->
+      </class> <!-- putMethodCall.createOpportunity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

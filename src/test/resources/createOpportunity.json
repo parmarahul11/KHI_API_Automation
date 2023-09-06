@@ -1,0 +1,13 @@
+ {
+  "accountUnit": "S1_B2B",
+  "active": true,
+  "company": "KHI",
+  "divisonCode": "03",
+  "enduserUnit": "S1_B2B",
+  "opptyCode": "OpParmar",
+  "opptyText": "Aug10-23",
+  "salesRepo": "SR1",
+  "shipto": "S1_B2B",
+  "bucode":"42",
+   "phase": 0
+}

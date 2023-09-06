@@ -1,0 +1,2604 @@
+2023-09-06 11:33:15,451 INFO  - *****************************************************
+2023-09-06 11:33:15,452 INFO  - *************** createCart *******************
+2023-09-06 11:33:15,452 INFO  - *****************************************************
+2023-09-06 11:33:15,453 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:33:15,456 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:33:15,461 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:33:15,462 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:33:16,188 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:33:16,189 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:33:16,196 INFO  - Request Response Status Code is - 200
+2023-09-06 11:33:16,206 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:33:16,207 INFO  - HTTP/1.1 200 
+2023-09-06 11:33:16,207 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 11:33:16,207 INFO  - ------------------------X--------------------------
+2023-09-06 11:34:47,645 INFO  - *****************************************************
+2023-09-06 11:34:47,646 INFO  - *************** createCart *******************
+2023-09-06 11:34:47,647 INFO  - *****************************************************
+2023-09-06 11:34:47,647 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:34:47,655 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:34:47,661 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:34:47,662 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:34:48,527 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:34:48,529 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:34:48,540 INFO  - Request Response Status Code is - 200
+2023-09-06 11:34:48,557 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:34:48,558 INFO  - HTTP/1.1 200 
+2023-09-06 11:34:48,558 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 11:34:48,558 INFO  - ------------------------X--------------------------
+2023-09-06 11:42:20,507 INFO  - *****************************************************
+2023-09-06 11:42:20,530 INFO  - *************** createCart *******************
+2023-09-06 11:42:20,530 INFO  - *****************************************************
+2023-09-06 11:42:20,530 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:42:20,554 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:42:20,567 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:42:20,567 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:42:22,342 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:42:22,344 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:42:22,358 INFO  - Request Response Status Code is - 200
+2023-09-06 11:42:22,368 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:42:22,369 INFO  - HTTP/1.1 200 
+2023-09-06 11:42:32,175 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 11:42:32,175 INFO  - ------------------------X--------------------------
+2023-09-06 11:47:05,149 INFO  - *****************************************************
+2023-09-06 11:47:05,150 INFO  - *************** createCart *******************
+2023-09-06 11:47:05,150 INFO  - *****************************************************
+2023-09-06 11:47:05,151 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:47:05,154 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:47:05,164 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:47:05,164 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:47:05,805 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:47:05,806 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:47:05,810 INFO  - Request Response Status Code is - 200
+2023-09-06 11:47:05,817 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:47:05,817 INFO  - HTTP/1.1 200 
+2023-09-06 11:49:57,272 INFO  - *****************************************************
+2023-09-06 11:49:57,273 INFO  - *************** createCart *******************
+2023-09-06 11:49:57,274 INFO  - *****************************************************
+2023-09-06 11:49:57,274 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:49:57,278 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:49:57,284 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:49:57,284 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:49:57,964 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:49:57,966 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:49:57,979 INFO  - Request Response Status Code is - 200
+2023-09-06 11:49:57,993 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:49:57,994 INFO  - HTTP/1.1 200 
+2023-09-06 11:50:11,449 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 11:50:11,449 INFO  - ------------------------X--------------------------
+2023-09-06 11:52:47,793 INFO  - *****************************************************
+2023-09-06 11:52:47,794 INFO  - *************** createCart *******************
+2023-09-06 11:52:47,794 INFO  - *****************************************************
+2023-09-06 11:52:47,795 INFO  - Step 1 : Generating Payload String
+2023-09-06 11:52:47,799 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 11:52:47,809 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 11:52:47,809 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 11:52:48,685 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 11:52:48,686 INFO  - Step 3 : Validating Response Status code
+2023-09-06 11:52:48,689 INFO  - Request Response Status Code is - 200
+2023-09-06 11:52:48,696 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 11:52:48,696 INFO  - HTTP/1.1 200 
+2023-09-06 11:53:01,614 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 11:53:01,614 INFO  - ------------------------X--------------------------
+2023-09-06 12:07:11,328 INFO  - *****************************************************
+2023-09-06 12:07:11,330 INFO  - *************** createCart *******************
+2023-09-06 12:07:11,330 INFO  - *****************************************************
+2023-09-06 12:07:11,330 INFO  - Step 1 : Generating Payload String
+2023-09-06 12:07:11,333 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 12:07:11,342 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 12:07:11,343 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 12:07:12,025 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 12:07:12,026 INFO  - Step 3 : Validating Response Status code
+2023-09-06 12:07:12,036 INFO  - Request Response Status Code is - 200
+2023-09-06 12:07:12,050 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 12:07:12,051 INFO  - HTTP/1.1 200 
+2023-09-06 12:07:21,861 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 12:07:21,862 INFO  - ------------------------X--------------------------
+2023-09-06 13:08:59,724 INFO  - *****************************************************
+2023-09-06 13:08:59,724 INFO  - *************** createCart *******************
+2023-09-06 13:08:59,725 INFO  - *****************************************************
+2023-09-06 13:08:59,725 INFO  - Step 1 : Generating Payload String
+2023-09-06 13:08:59,726 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 13:08:59,730 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 13:08:59,731 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 13:09:00,590 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 13:09:00,591 INFO  - Step 3 : Validating Response Status code
+2023-09-06 13:09:00,596 INFO  - Request Response Status Code is - 200
+2023-09-06 13:09:00,605 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 13:09:00,605 INFO  - HTTP/1.1 200 
+2023-09-06 13:09:00,670 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 13:09:00,670 INFO  - ------------------------X--------------------------
+2023-09-06 13:12:55,070 INFO  - *****************************************************
+2023-09-06 13:12:55,071 INFO  - *************** createCart *******************
+2023-09-06 13:12:55,071 INFO  - *****************************************************
+2023-09-06 13:12:55,072 INFO  - Step 1 : Generating Payload String
+2023-09-06 13:12:55,075 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 13:12:55,081 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 13:12:55,081 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 13:12:55,867 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 13:12:55,868 INFO  - Step 3 : Validating Response Status code
+2023-09-06 13:12:55,872 INFO  - Request Response Status Code is - 200
+2023-09-06 13:12:55,878 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 13:12:55,879 INFO  - HTTP/1.1 200 
+2023-09-06 13:12:59,255 INFO  - *****************************************************
+2023-09-06 13:12:59,256 INFO  - *************** createCart *******************
+2023-09-06 13:12:59,257 INFO  - *****************************************************
+2023-09-06 13:12:59,257 INFO  - Step 1 : Generating Payload String
+2023-09-06 13:12:59,262 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 13:12:59,266 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 13:12:59,267 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 13:12:59,926 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 13:12:59,926 INFO  - Step 3 : Validating Response Status code
+2023-09-06 13:12:59,931 INFO  - Request Response Status Code is - 200
+2023-09-06 13:12:59,936 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 13:12:59,936 INFO  - HTTP/1.1 200 
+2023-09-06 14:14:39,649 INFO  - *****************************************************
+2023-09-06 14:14:39,650 INFO  - *************** createCart *******************
+2023-09-06 14:14:39,650 INFO  - *****************************************************
+2023-09-06 14:14:39,650 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:14:39,653 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:14:39,662 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:14:39,662 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:14:40,481 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:14:40,485 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:14:40,509 INFO  - Request Response Status Code is - 200
+2023-09-06 14:14:40,521 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:14:40,521 INFO  - HTTP/1.1 200 
+2023-09-06 14:17:09,833 INFO  - *****************************************************
+2023-09-06 14:17:09,839 INFO  - *************** createCart *******************
+2023-09-06 14:17:09,839 INFO  - *****************************************************
+2023-09-06 14:17:09,839 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:17:09,841 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:17:09,849 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:17:09,849 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:17:10,580 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:17:10,580 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:17:10,585 INFO  - Request Response Status Code is - 200
+2023-09-06 14:17:10,593 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:17:10,593 INFO  - HTTP/1.1 200 
+2023-09-06 14:17:10,777 INFO  - *****************************************************
+2023-09-06 14:17:10,779 INFO  - *************** createCart *******************
+2023-09-06 14:17:10,779 INFO  - *****************************************************
+2023-09-06 14:17:10,779 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:17:10,782 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:17:10,786 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:17:10,787 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:17:11,500 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:17:11,501 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:17:11,509 INFO  - Request Response Status Code is - 200
+2023-09-06 14:17:11,517 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:17:11,517 INFO  - HTTP/1.1 200 
+2023-09-06 14:18:11,614 INFO  - *****************************************************
+2023-09-06 14:18:11,617 INFO  - *************** createCart *******************
+2023-09-06 14:18:11,623 INFO  - *****************************************************
+2023-09-06 14:18:11,623 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:18:11,626 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:18:11,640 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:18:11,640 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:18:12,418 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:18:12,420 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:18:12,435 INFO  - Request Response Status Code is - 200
+2023-09-06 14:18:12,445 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:18:12,446 INFO  - HTTP/1.1 200 
+2023-09-06 14:19:35,179 INFO  - *****************************************************
+2023-09-06 14:19:35,180 INFO  - *************** createCart *******************
+2023-09-06 14:19:35,180 INFO  - *****************************************************
+2023-09-06 14:19:35,181 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:19:35,183 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:19:35,187 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:19:35,187 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:19:35,862 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:19:35,864 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:19:35,876 INFO  - Request Response Status Code is - 200
+2023-09-06 14:19:35,895 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:19:35,896 INFO  - HTTP/1.1 200 
+2023-09-06 14:19:35,964 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:19:35,964 INFO  - ------------------------X--------------------------
+2023-09-06 14:21:47,568 INFO  - *****************************************************
+2023-09-06 14:21:47,569 INFO  - *************** createCart *******************
+2023-09-06 14:21:47,569 INFO  - *****************************************************
+2023-09-06 14:21:47,570 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:21:47,572 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:21:47,577 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:21:47,577 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:21:48,197 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:21:48,199 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:21:48,208 INFO  - Request Response Status Code is - 200
+2023-09-06 14:21:48,221 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:21:48,221 INFO  - HTTP/1.1 200 
+2023-09-06 14:21:48,284 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:21:48,284 INFO  - ------------------------X--------------------------
+2023-09-06 14:22:45,940 INFO  - *****************************************************
+2023-09-06 14:22:45,941 INFO  - *************** createCart *******************
+2023-09-06 14:22:45,942 INFO  - *****************************************************
+2023-09-06 14:22:45,943 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:22:45,946 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:22:45,952 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:22:45,952 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:22:46,618 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:22:46,621 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:22:46,633 INFO  - Request Response Status Code is - 200
+2023-09-06 14:22:46,646 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:22:46,646 INFO  - HTTP/1.1 200 
+2023-09-06 14:24:19,368 INFO  - *****************************************************
+2023-09-06 14:24:19,368 INFO  - *************** createCart *******************
+2023-09-06 14:24:19,369 INFO  - *****************************************************
+2023-09-06 14:24:19,369 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:24:19,379 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:24:19,391 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:24:19,392 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:24:20,102 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:24:20,104 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:24:20,121 INFO  - Request Response Status Code is - 200
+2023-09-06 14:24:20,144 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:24:20,145 INFO  - HTTP/1.1 200 
+2023-09-06 14:25:42,906 INFO  - *****************************************************
+2023-09-06 14:25:42,907 INFO  - *************** createCart *******************
+2023-09-06 14:25:42,912 INFO  - *****************************************************
+2023-09-06 14:25:42,913 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:25:42,915 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:25:42,920 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:25:42,920 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:25:43,629 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:25:43,630 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:25:43,639 INFO  - Request Response Status Code is - 200
+2023-09-06 14:25:43,650 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:25:43,651 INFO  - HTTP/1.1 200 
+2023-09-06 14:26:41,280 INFO  - *****************************************************
+2023-09-06 14:26:41,281 INFO  - *************** createCart *******************
+2023-09-06 14:26:41,281 INFO  - *****************************************************
+2023-09-06 14:26:41,282 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:26:41,285 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:26:41,296 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:26:41,296 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:26:41,943 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:26:41,946 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:26:41,961 INFO  - Request Response Status Code is - 200
+2023-09-06 14:26:41,976 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:26:41,977 INFO  - HTTP/1.1 200 
+2023-09-06 14:32:17,218 INFO  - *****************************************************
+2023-09-06 14:32:17,219 INFO  - *************** createCart *******************
+2023-09-06 14:32:17,221 INFO  - *****************************************************
+2023-09-06 14:32:17,221 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:32:17,224 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:32:17,228 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:32:17,228 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:32:17,855 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:32:17,856 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:32:17,871 INFO  - Request Response Status Code is - 200
+2023-09-06 14:32:17,886 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:32:17,886 INFO  - HTTP/1.1 200 
+2023-09-06 14:34:47,951 INFO  - *****************************************************
+2023-09-06 14:34:47,952 INFO  - *************** createCart *******************
+2023-09-06 14:34:47,952 INFO  - *****************************************************
+2023-09-06 14:34:47,952 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:34:47,959 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:34:47,964 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:34:47,965 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:34:48,638 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:34:48,641 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:34:48,657 INFO  - Request Response Status Code is - 200
+2023-09-06 14:34:48,673 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:34:48,673 INFO  - HTTP/1.1 200 
+2023-09-06 14:38:11,235 INFO  - *****************************************************
+2023-09-06 14:38:11,236 INFO  - *************** createCart *******************
+2023-09-06 14:38:11,236 INFO  - *****************************************************
+2023-09-06 14:38:11,236 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:38:11,239 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:38:11,243 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:38:11,244 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:38:11,889 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:38:11,892 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:38:11,905 INFO  - Request Response Status Code is - 200
+2023-09-06 14:38:11,915 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:38:11,915 INFO  - HTTP/1.1 200 
+2023-09-06 14:38:14,978 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:38:14,979 INFO  - ------------------------X--------------------------
+2023-09-06 14:39:14,860 INFO  - *****************************************************
+2023-09-06 14:39:14,860 INFO  - *************** createCart *******************
+2023-09-06 14:39:14,861 INFO  - *****************************************************
+2023-09-06 14:39:14,861 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:39:14,865 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:39:14,870 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:39:14,870 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:39:15,516 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:39:15,518 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:39:15,531 INFO  - Request Response Status Code is - 200
+2023-09-06 14:39:15,550 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:39:15,551 INFO  - HTTP/1.1 200 
+2023-09-06 14:43:29,201 INFO  - *****************************************************
+2023-09-06 14:43:29,201 INFO  - *************** createCart *******************
+2023-09-06 14:43:29,201 INFO  - *****************************************************
+2023-09-06 14:43:29,201 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:43:29,205 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:43:29,210 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:43:29,210 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:43:29,824 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:43:29,826 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:43:29,840 INFO  - Request Response Status Code is - 200
+2023-09-06 14:43:29,854 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:43:29,855 INFO  - HTTP/1.1 200 
+2023-09-06 14:43:33,450 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:43:33,451 INFO  - ------------------------X--------------------------
+2023-09-06 14:48:06,909 INFO  - *****************************************************
+2023-09-06 14:48:06,912 INFO  - *************** createCart *******************
+2023-09-06 14:48:06,912 INFO  - *****************************************************
+2023-09-06 14:48:06,913 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:48:06,917 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:48:06,970 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:48:06,970 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:48:07,662 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:48:07,663 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:48:07,666 INFO  - Request Response Status Code is - 200
+2023-09-06 14:48:07,671 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:48:07,671 INFO  - HTTP/1.1 200 
+2023-09-06 14:48:08,555 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:48:08,555 INFO  - ------------------------X--------------------------
+2023-09-06 14:48:09,464 INFO  - *****************************************************
+2023-09-06 14:48:09,465 INFO  - *************** createCart *******************
+2023-09-06 14:48:09,465 INFO  - *****************************************************
+2023-09-06 14:48:09,465 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:48:09,467 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:48:09,471 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:48:09,471 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:48:10,107 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:48:10,110 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:48:10,123 INFO  - Request Response Status Code is - 200
+2023-09-06 14:48:10,139 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:48:10,140 INFO  - HTTP/1.1 200 
+2023-09-06 14:48:10,889 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:48:10,889 INFO  - ------------------------X--------------------------
+2023-09-06 14:50:01,715 INFO  - *****************************************************
+2023-09-06 14:50:01,715 INFO  - *************** createCart *******************
+2023-09-06 14:50:01,716 INFO  - *****************************************************
+2023-09-06 14:50:01,716 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:50:01,718 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:50:01,722 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005491/entries/0
+2023-09-06 14:50:01,723 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:50:02,227 INFO  - *****************************************************
+2023-09-06 14:50:02,228 INFO  - *************** createCart *******************
+2023-09-06 14:50:02,228 INFO  - *****************************************************
+2023-09-06 14:50:02,228 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:50:02,230 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:50:02,242 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:50:02,242 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:50:02,335 INFO  - Post Request Response is - {
+   "status" : "Cart No is not matching"
+}
+2023-09-06 14:50:02,336 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:50:02,341 INFO  - Request Response Status Code is - 200
+2023-09-06 14:50:02,348 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:50:02,348 INFO  - HTTP/1.1 200 
+2023-09-06 14:50:02,932 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:50:02,933 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:50:02,941 INFO  - Request Response Status Code is - 200
+2023-09-06 14:50:02,957 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:50:02,957 INFO  - HTTP/1.1 200 
+2023-09-06 14:50:03,670 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:50:03,671 INFO  - ------------------------X--------------------------
+2023-09-06 14:50:44,522 INFO  - *****************************************************
+2023-09-06 14:50:44,522 INFO  - *************** createCart *******************
+2023-09-06 14:50:44,522 INFO  - *****************************************************
+2023-09-06 14:50:44,522 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:50:44,525 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:50:44,529 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:50:44,529 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:50:45,629 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:50:45,630 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:50:45,641 INFO  - Request Response Status Code is - 200
+2023-09-06 14:50:45,659 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:50:45,659 INFO  - HTTP/1.1 200 
+2023-09-06 14:50:46,347 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:50:46,347 INFO  - ------------------------X--------------------------
+2023-09-06 14:55:58,189 INFO  - *****************************************************
+2023-09-06 14:55:58,192 INFO  - *************** createCart *******************
+2023-09-06 14:55:58,192 INFO  - *****************************************************
+2023-09-06 14:55:58,192 INFO  - Step 1 : Generating Payload String
+2023-09-06 14:55:58,194 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 14:55:58,214 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 14:55:58,215 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 14:55:59,065 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 14:55:59,067 INFO  - Step 3 : Validating Response Status code
+2023-09-06 14:55:59,079 INFO  - Request Response Status Code is - 200
+2023-09-06 14:55:59,092 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 14:55:59,092 INFO  - HTTP/1.1 200 
+2023-09-06 14:55:59,835 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 14:55:59,836 INFO  - ------------------------X--------------------------
+2023-09-06 15:12:51,346 INFO  - *****************************************************
+2023-09-06 15:12:51,347 INFO  - *************** createCart *******************
+2023-09-06 15:12:51,347 INFO  - *****************************************************
+2023-09-06 15:12:51,347 INFO  - Step 1 : Generating Payload String
+2023-09-06 15:12:51,349 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 15:12:51,357 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 15:12:51,358 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 15:12:52,530 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 15:12:52,531 INFO  - Step 3 : Validating Response Status code
+2023-09-06 15:12:52,545 INFO  - Request Response Status Code is - 200
+2023-09-06 15:12:52,554 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 15:12:52,554 INFO  - HTTP/1.1 200 
+2023-09-06 15:12:53,923 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 15:12:53,923 INFO  - ------------------------X--------------------------
+2023-09-06 15:13:00,976 INFO  - *****************************************************
+2023-09-06 15:13:00,976 INFO  - *************** createCart *******************
+2023-09-06 15:13:00,976 INFO  - *****************************************************
+2023-09-06 15:13:00,977 INFO  - Step 1 : Generating Payload String
+2023-09-06 15:13:00,977 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 15:13:00,979 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/1/plm
+2023-09-06 15:13:00,979 INFO  - Post Request Payload is - {
+    "cartItemNo": 1,
+    "cartNo": "1000005388",
+    "productCd": "RS007NFF6123",
+    "item": [
+        {
+            "cartItemNo": 1,
+            "cartNo": "1000005388",
+            "keyNo": "1001",
+            "productCd": "Junk123",
+            "quantity": "5"
+        }
+    ]
+}
+2023-09-06 15:13:01,682 INFO  - Post Request Response is - {"cartNo":"1000005388","cartItemNo":1,"status":"Success","item":[{"cartNo":"1000005388","cartItemNo":1,"keyNo":1001,"productCd":"Junk123","quantity":5}],"ProductCd":"RS007NFF6123"}
+2023-09-06 15:13:01,684 INFO  - Step 3 : Validating Response Status code
+2023-09-06 15:13:01,691 INFO  - Request Response Status Code is - 200
+2023-09-06 15:13:01,698 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 15:13:01,699 INFO  - HTTP/1.1 200 
+2023-09-06 15:13:01,772 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 15:13:01,772 INFO  - ------------------------X--------------------------
+2023-09-06 15:15:16,489 INFO  - *****************************************************
+2023-09-06 15:15:16,490 INFO  - *************** createCart *******************
+2023-09-06 15:15:16,490 INFO  - *****************************************************
+2023-09-06 15:15:16,490 INFO  - Step 1 : Generating Payload String
+2023-09-06 15:15:16,492 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 15:15:16,496 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/0
+2023-09-06 15:15:16,496 INFO  - Post Request Payload is - 
+{
+  "cartItemNo": 0,
+  "cartNo": "1000005388",
+  "item": [
+    {
+      "cartItemNo": 0,
+      "cartNo": "1000005388",
+      "noItemCdDetail": [
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1001",
+          "quantity": "2",
+          "selectItem": "Reach Range",
+          "selectName": "02",
+          "selectValue": "3501-5000 MM"
+        },
+        {
+          "cartItemNo": 0,
+          "cartNo": "1000005388",
+          "keyNo": "1002",
+          "quantity": "2",
+          "selectItem": "Base Width",
+          "selectName": "02",
+          "selectValue": "3001 - 4000 MM"
+        }
+      ],
+      "productCd": "RS007NFF60026"
+    }
+  ],
+  "language": "en",
+  "priceAuth": false
+}
+
+
+
+2023-09-06 15:15:17,337 INFO  - Post Request Response is - {
+   "cartItemNo" : 0,
+   "cartNo" : "1000005388",
+   "item" : [ {
+      "cartItemNo" : 0,
+      "cartNo" : "1000005388",
+      "noItemCdDetail" : [ {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1001,
+         "quantity" : "2",
+         "selectItem" : "Reach Range",
+         "selectName" : "02",
+         "selectValue" : "3501-5000 MM"
+      }, {
+         "cartItemNo" : 0,
+         "cartNo" : "1000005388",
+         "keyNo" : 1002,
+         "quantity" : "2",
+         "selectItem" : "Base Width",
+         "selectName" : "02",
+         "selectValue" : "3001 - 4000 MM"
+      } ],
+      "productCd" : "RS007NFF60026"
+   } ],
+   "language" : "en",
+   "priceAuth" : "false",
+   "productTarget" : 0,
+   "status" : "Success"
+}
+2023-09-06 15:15:17,339 INFO  - Step 3 : Validating Response Status code
+2023-09-06 15:15:17,351 INFO  - Request Response Status Code is - 200
+2023-09-06 15:15:17,363 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 15:15:17,363 INFO  - HTTP/1.1 200 
+2023-09-06 15:15:18,119 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 15:15:18,119 INFO  - ------------------------X--------------------------
+2023-09-06 15:15:18,136 INFO  - *****************************************************
+2023-09-06 15:15:18,136 INFO  - *************** createCart *******************
+2023-09-06 15:15:18,136 INFO  - *****************************************************
+2023-09-06 15:15:18,136 INFO  - Step 1 : Generating Payload String
+2023-09-06 15:15:18,139 INFO  - Step 2 : Executing Create Cart Call
+2023-09-06 15:15:18,143 INFO  - Post Request URI is - https://api.c9z0em8xjj-kawasakih2-s1-public.model-t.cc.commerce.ondemand.com/occ/v2/khib2b/users/test@cegb.co.jp/carts/1000005388/entries/1/plm
+2023-09-06 15:15:18,143 INFO  - Post Request Payload is - {
+    "cartItemNo": 1,
+    "cartNo": "1000005388",
+    "productCd": "RS007NFF6123",
+    "item": [
+        {
+            "cartItemNo": 1,
+            "cartNo": "1000005388",
+            "keyNo": "1001",
+            "productCd": "Junk123",
+            "quantity": "5"
+        }
+    ]
+}
+2023-09-06 15:15:18,739 INFO  - Post Request Response is - {"cartNo":"1000005388","cartItemNo":1,"status":"Success","item":[{"cartNo":"1000005388","cartItemNo":1,"keyNo":1001,"productCd":"Junk123","quantity":5}],"ProductCd":"RS007NFF6123"}
+2023-09-06 15:15:18,740 INFO  - Step 3 : Validating Response Status code
+2023-09-06 15:15:18,749 INFO  - Request Response Status Code is - 200
+2023-09-06 15:15:18,761 INFO  - Request Response Status Message is - HTTP/1.1 200 
+2023-09-06 15:15:18,762 INFO  - HTTP/1.1 200 
+2023-09-06 15:15:18,823 INFO  -  XXXXXXXXXX  END createCart XXXXXXXXXX
+2023-09-06 15:15:18,823 INFO  - ------------------------X--------------------------

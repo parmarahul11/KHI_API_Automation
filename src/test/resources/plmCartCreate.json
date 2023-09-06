@@ -1,0 +1,14 @@
+{
+    "cartItemNo": 1,
+    "cartNo": "1000005388",
+    "productCd": "RS007NFF6123",
+    "item": [
+        {
+            "cartItemNo": 1,
+            "cartNo": "1000005388",
+            "keyNo": "1001",
+            "productCd": "Junk123",
+            "quantity": "5"
+        }
+    ]
+}
